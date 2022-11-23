@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopHandsOn1", "WorkshopHandsOn1.csproj", "{D46704F2-3F3D-4945-A659-39C199B781CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46704F2-3F3D-4945-A659-39C199B781CD}.Debug|x86.ActiveCfg = Debug|x86
+		{D46704F2-3F3D-4945-A659-39C199B781CD}.Debug|x86.Build.0 = Debug|x86
+		{D46704F2-3F3D-4945-A659-39C199B781CD}.Release|x86.ActiveCfg = Release|x86
+		{D46704F2-3F3D-4945-A659-39C199B781CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FADD169C-7852-4BC0-A1A6-CC59378E369A}
+	EndGlobalSection
+EndGlobal
